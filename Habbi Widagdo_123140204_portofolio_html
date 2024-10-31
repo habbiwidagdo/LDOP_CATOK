@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<style>
+    table, th, td, hr{
+        border: 1px solid black;
+    }
+</style>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <img src="Foto 3x4.jpg" alt="Foto Habbi Merah" width="100" height="140">
+    <h2>
+        Habbi Widagdo
+    </h2>
+    <p>
+        <small>
+            <a href="https://wa.me/6282181288202">+62 82181288202</a> | 
+            <a href="mailto:habbiwidagdo@gmail.com">habbiwidagdo@gmail.com</a> | 
+            <a href="mailto:habbi.123140204@student.itera.ac.id">habbi.123140204@student.itera.ac.id</a> |
+            <a href="https://www.linkedin.com/in/habbiwdgdo/">www.linkedin.com/in/habbiwdgdo</a>
+        </small>
+    </p>
+    <p>
+        Perumahan Griya Dafista, Jalan M. Azizi, Tanjung Bintang, Kabupaten Lampung Selatan, Lampung (35361)
+    </p>
+    <p>
+        Saya Mahasiswa Teknik Informatika di Institut Teknologi Sumatera (ITERA). Saya tertarik bergabung dalam
+        organisasi eksternal dan internal kampus, selain fokus dalam Program Studi, Saya juga tertarik untuk melamar 
+        dalam program magang. Kemampuan yang Saya miliki dari pengalaman interpersonal yang baik diantaranya 
+        seperti komunikasi dan kerja sama, hal ini dapat dilihat dari pengalaman dan aktif dalam berbagai organisasi 
+        serta kepanitiaan di SMA dan Kampus.
+    </p>
+
+    <br>
+
+    <h3>
+        Pendidikan
+    </h3>
+    <hr>
+    <table style="width:100%">
+        <tr>
+          <th>Nama Institusi</th>
+          <th>Jurusan</th>
+          <th>Alamat</th>
+          <th>Tahun</th>
+        </tr>
+        <tr>
+          <td>Madrasah Aliyah Negeri (MAN) 1 Kota Lubuklinggau</td>
+          <td>MIPA</td>
+          <td>Kota Lubuklinggau, Sumatera Selatan</td>
+          <td>Juli 2020 - Mei 2023</td>
+        </tr>
+        <tr>
+          <td>Institut Teknologi Sumatera</td>
+          <td>Teknik Informatika</td>
+          <td>Kabupaten Lampung Selatan, Lampung</td>
+          <td>Agustus 2023 - Sekarang</td>
+        </tr>
+    </table>
+
+    <br>
+
+    <h3>
+        Organisasi dan kepanitiaan
+    </h3>
+    <hr>
+    <h4>
+        <i>2023 - 2024</i>
+    </h4>
+    <ul>
+        <li>
+            Jurnalistik Laskar Madrasah - Anggota Divisi Kameramen dan Editor
+        </li>
+        <li>
+            Jurnalistik Laskar Madrasah - Ketua Umum
+        </li>
+        <li>
+            Organisasi Intra Sekolah - Ketua Seksi Bidang Teknologi Informasi dan Komunikasi
+        </li>
+        <li>
+            Majelis Perwakilan Kelas - Pengurus Dewan Aspirasi
+        </li>
+        <li>
+            Munaqosah Tahfidz Qur’an - Ketua Divisi Publikasi, Dokumentasi, dan Desain
+        </li>
+        <li>
+            Seni Drama Tari Musik - Ketua dan Sutradara
+        </li>
+    </ul>
+    <h4>
+        <i>2024 - Sekarang</i>
+    </h4>
+    <ul>
+        <li>
+            Pemilihan Ketua Angkatan Informatika 2023 - Ketua Sub-Divisi Manajemen Acara
+        </li>
+        <li>
+            Badan Pengurus Angkatan - Sekretaris Umum
+        </li>
+        <li>
+            PPLK 2024 - Staff Manajemen Acara Collaboration Unit ITERA
+        </li>
+        <li>
+            Pengenalan Komputer dan Software 1 - Asisten Praktikum
+        </li>
+        <li>
+            Refreshment HMIF ITERA - Staff Sub-Divisi Manajemen Acara
+        </li>
+        <li>
+            Siang Keakraban - PJ Sub-Divisi Manajemen Acara
+        </li>
+    </ul>
+</body>
+</html>
